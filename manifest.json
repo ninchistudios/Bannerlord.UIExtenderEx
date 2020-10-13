@@ -1,0 +1,418 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/a/Bannerlord.UIExtenderEx/Bannerlord.UIExtenderEx/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../resources/Butter.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/Butter.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Attributes.BaseUIExtenderAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Attributes.BaseUIExtenderAttribute.html",
+          "hash": "w+KaaPpGr0Y06cqUUGL3Dw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Attributes.DataSourceMethodAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Attributes.DataSourceMethodAttribute.html",
+          "hash": "bTrdiBI5ljqGFTQjkPgguw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Attributes.PrefabExtensionAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Attributes.PrefabExtensionAttribute.html",
+          "hash": "/Tg4b4z47NyD42vy47j8xg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Attributes.ViewModelMixinAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Attributes.ViewModelMixinAttribute.html",
+          "hash": "DPcoCa7aj8Q7o79a+dzGLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Attributes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Attributes.html",
+          "hash": "m1n0xifWbfDzXGGq1A32WA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Patches.WidgetFactoryPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Patches.WidgetFactoryPatch.html",
+          "hash": "ltPcRwcS+/e9/bXBSlazWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Patches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Patches.html",
+          "hash": "ka9hYwRUoIQpPLyT8JbVVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.CustomPatch-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.CustomPatch-1.html",
+          "hash": "9E9/S3ER5Zui2VqX4pMw1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.EmbedPrefabExtensionInsertPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.EmbedPrefabExtensionInsertPatch.html",
+          "hash": "GGY3zVhmwyiX8hQ3Q7Ep9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.IPrefabPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.IPrefabPatch.html",
+          "hash": "rfQL11aSHf8XAzPhwF6ATQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.InsertPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.InsertPatch.html",
+          "hash": "mskGw5zmydm48wsQULishA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.ModulePrefabExtensionInsertPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.ModulePrefabExtensionInsertPatch.html",
+          "hash": "qC4h8aflj+wcfHSydrFz3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertAsSiblingPatch.InsertType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertAsSiblingPatch.InsertType.html",
+          "hash": "4iXdhoUXLjVuion2KZ4MBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertAsSiblingPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertAsSiblingPatch.html",
+          "hash": "qNHin/e2qynj+5sEvY+mmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionInsertPatch.html",
+          "hash": "iHNeqJbHNUwxh7QUEgxe+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionReplacePatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.PrefabExtensionReplacePatch.html",
+          "hash": "sQWfJ1iMCPiB65PwQDTxcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.Prefabs.html",
+          "hash": "ChpBGbKIH+sXo1xFHg4H2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.SubModule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.SubModule.html",
+          "hash": "hxdATtEJ0l/NtNEoEydJ+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.UIExtender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.UIExtender.html",
+          "hash": "boJnU8qLmTgS2BOO+HJ4hA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.BaseViewModelMixin-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.BaseViewModelMixin-1.html",
+          "hash": "eK0d+jZjqAWVIrXj5Bkljg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.IViewModelMixin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.IViewModelMixin.html",
+          "hash": "eEv30RnYzb2EP9jeFWNMug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.ViewModels.html",
+          "hash": "1YSAAJOG6FOgK7hJ9iXr+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Bannerlord.UIExtenderEx.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Bannerlord.UIExtenderEx.html",
+          "hash": "93NNuHUekUOK9SdG67hgkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "6rVaJoUm/1k6Bj9CQU4jcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/index.html",
+          "hash": "4k8issWB1cKuVtOl1+fDbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Kif1Z4pTB42sA5NH7KOWoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "langwordMapping.yml",
+      "output": {
+        "resource": {
+          "relative_path": "langwordMapping.yml"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "r4PhyZTOnnU05aK89QRuyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 23,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
